@@ -2,3 +2,4 @@ loguru
 black
 qrcode
 pillow
+reflex
